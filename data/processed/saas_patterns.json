@@ -2,1227 +2,1227 @@
   "Google Workspace": [
     {
       "pattern": "google-site-verification=",
-      "Type": "Office IT"
+      "type": "Office IT"
     },
     {
       "pattern": "v=spf1 include:_spf.google.com",
-      "Type": "Office IT"
+      "type": "Office IT"
     },
     {
       "pattern": "google-domain-verification=",
-      "Type": "Office IT"
+      "type": "Office IT"
     },
     {
       "pattern": "google-gws-recovery-domain-verification=",
-      "Type": "Office IT"
+      "type": "Office IT"
     }
   ],
   "Microsoft 365": [
     {
       "pattern": "v=spf1 include:spf.protection.outlook.com",
-      "Type": "Office IT"
+      "type": "Office IT"
     },
     {
       "pattern": "MS=",
-      "Type": "Office IT"
+      "type": "Office IT"
     },
     {
       "pattern": "ms=",
-      "Type": "Office IT"
+      "type": "Office IT"
     },
     {
       "pattern": "ms-domain-verification=",
-      "Type": "Office IT"
+      "type": "Office IT"
     }
   ],
   "Zendesk": [
     {
       "pattern": "zendesk-verification=",
-      "Type": "Customer Service"
+      "type": "Customer Service"
     },
     {
       "pattern": "zendesk-site-verification=",
-      "Type": "Customer Service"
+      "type": "Customer Service"
     }
   ],
   "Shopify": [
     {
       "pattern": "shopify-verification=",
-      "Type": "E-Commerce"
+      "type": "E-Commerce"
     },
     {
       "pattern": "shopify-site-verification=",
-      "Type": "E-Commerce"
+      "type": "E-Commerce"
     },
     {
       "pattern": "shopify-domain-verification=",
-      "Type": "E-Commerce"
+      "type": "E-Commerce"
     },
     {
       "pattern": "shopify-verification-code=",
-      "Type": "E-Commerce"
+      "type": "E-Commerce"
     }
   ],
   "Atlassian": [
     {
       "pattern": "atlassian-domain-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     },
     {
       "pattern": "confluence-domain-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "Slack": [
     {
       "pattern": "slack-domain-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     },
     {
       "pattern": "slack-site-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "HubSpot": [
     {
       "pattern": "hubspot-domain-verify",
-      "Type": "CRM"
+      "type": "CRM"
     },
     {
       "pattern": "hs-site-verification=",
-      "Type": "CRM"
+      "type": "CRM"
     },
     {
       "pattern": "hubspotemail.net",
-      "Type": "CRM"
+      "type": "CRM"
     }
   ],
   "Stripe": [
     {
       "pattern": "stripe-verification=",
-      "Type": "E-Commerce"
+      "type": "E-Commerce"
     },
     {
       "pattern": "stripe-site-verification=",
-      "Type": "E-Commerce"
+      "type": "E-Commerce"
     }
   ],
   "GitHub": [
     {
       "pattern": "github-pages-verification=",
-      "Type": "Code Repository"
+      "type": "Code Repository"
     }
   ],
   "Cisco": [
     {
       "pattern": "cisco-ci-domain-verification=",
-      "Type": "Networking"
+      "type": "Networking"
     }
   ],
   "Adobe IDP": [
     {
       "pattern": "adobe-idp-site-verification=",
-      "Type": "Identity Provider"
+      "type": "Identity Provider"
     }
   ],
   "Adobe Sign": [
     {
       "pattern": "adobe-sign-verification=",
-      "Type": "Document Management"
+      "type": "Document Management"
     }
   ],
   "Sophos": [
     {
       "pattern": "sophos-domain-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Notion": [
     {
       "pattern": "notion-domain-verification=",
-      "Type": "Productivity"
+      "type": "Productivity"
     },
     {
       "pattern": "Notion_verify_",
-      "Type": "Productivity"
+      "type": "Productivity"
     }
   ],
   "Monday.com": [
     {
       "pattern": "monday-com-verification=",
-      "Type": "Project Management"
+      "type": "Project Management"
     }
   ],
   "Uber": [
     {
       "pattern": "uber-domain-verification=",
-      "Type": "Transport"
+      "type": "Transport"
     }
   ],
   "Amazon SES": [
     {
       "pattern": "amazonses:",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:amazonses.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Elastic Email": [
     {
       "pattern": "include:_spf.elasticemail.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "ServiceNow": [
     {
       "pattern": "include:service-now.com",
-      "Type": "IT Service Management"
+      "type": "IT Service Management"
     }
   ],
   "Canva": [
     {
       "pattern": "canva-site-verification=",
-      "Type": "Design"
+      "type": "Design"
     }
   ],
   "Jamf": [
     {
       "pattern": "jamf-site-verification=",
-      "Type": "IT Service Management"
+      "type": "IT Service Management"
     }
   ],
   "Apple": [
     {
       "pattern": "apple-domain-verification=",
-      "Type": "Office IT"
+      "type": "Office IT"
     }
   ],
   "Dropbox": [
     {
       "pattern": "dropbox-domain-verification=",
-      "Type": "File Sharing"
+      "type": "File Sharing"
     }
   ],
   "Zoom": [
     {
       "pattern": "ZOOM_verify_",
-      "Type": "Video Conferencing"
+      "type": "Video Conferencing"
     },
     {
       "pattern": "zoom-domain-verification=",
-      "Type": "Video Conferencing"
+      "type": "Video Conferencing"
     },
     {
       "pattern": "zoom=",
-      "Type": "Video Conferencing"
+      "type": "Video Conferencing"
     }
   ],
   "DocuSign": [
     {
       "pattern": "docusign=",
-      "Type": "Document Management"
+      "type": "Document Management"
     }
   ],
   "Airtable": [
     {
       "pattern": "airtable-verification=",
-      "Type": "Productivity"
+      "type": "Productivity"
     }
   ],
   "Bugcrowd": [
     {
       "pattern": "bugcrowd-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "OpenAI": [
     {
       "pattern": "openai-domain-verification=",
-      "Type": "AI Platform"
+      "type": "AI Platform"
     }
   ],
   "KnowBe4": [
     {
       "pattern": "knowbe4-site-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Krisp": [
     {
       "pattern": "krisp-domain-verification=",
-      "Type": "AI Platform"
+      "type": "AI Platform"
     }
   ],
   "Miro": [
     {
       "pattern": "miro-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "MongoDB": [
     {
       "pattern": "mongodb-site-verification=",
-      "Type": "Database"
+      "type": "Database"
     }
   ],
   "Segment": [
     {
       "pattern": "segment-site-verification=",
-      "Type": "Analytics"
+      "type": "Analytics"
     }
   ],
   "Cursor": [
     {
       "pattern": "cursor-domain-verification-",
-      "Type": "AI Platform"
+      "type": "AI Platform"
     }
   ],
   "Twilio": [
     {
       "pattern": "twilio-domain-verification=",
-      "Type": "Telephony"
+      "type": "Telephony"
     }
   ],
   "Apperio": [
     {
       "pattern": "apperio-domain-verification=",
-      "Type": "Legal"
+      "type": "Legal"
     }
   ],
   "OneTrust": [
     {
       "pattern": "onetrust-domain-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Anthropic": [
     {
       "pattern": "anthropic-domain-verification-",
-      "Type": "AI Platform"
+      "type": "AI Platform"
     }
   ],
   "Pendo": [
     {
       "pattern": "pendo-domain-verification=",
-      "Type": "Analytics"
+      "type": "Analytics"
     }
   ],
   "HubSpot (Developer)": [
     {
       "pattern": "hubspot-developer-verification=",
-      "Type": "CRM"
+      "type": "CRM"
     }
   ],
   "Pardot": [
     {
       "pattern": "pardot",
-      "Type": "Marketing"
+      "type": "Marketing"
     },
     {
       "pattern": "include:aspmx.pardot.com",
-      "Type": "Marketing"
+      "type": "Marketing"
     }
   ],
   "Salesforce Marketing Cloud (SFMC)": [
     {
       "pattern": "SFMC-",
-      "Type": "Marketing"
+      "type": "Marketing"
     },
     {
       "pattern": "include:cust-spf.exacttarget.com",
-      "Type": "Marketing"
+      "type": "Marketing"
     }
   ],
   "Atlassian (Email Sending)": [
     {
       "pattern": "atlassian-sending-domain-verification=",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Statuspage": [
     {
       "pattern": "status-page-domain-verification=",
-      "Type": "Monitoring"
+      "type": "Monitoring"
     }
   ],
   "Facebook": [
     {
       "pattern": "facebook-domain-verification=",
-      "Type": "Social Media"
+      "type": "Social Media"
     }
   ],
   "Dynatrace": [
     {
       "pattern": "dynatrace-site-verification=",
-      "Type": "Monitoring"
+      "type": "Monitoring"
     }
   ],
   "Detectify": [
     {
       "pattern": "detectify-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Docebo": [
     {
       "pattern": "include:docebosaas.com",
-      "Type": "Learning Management"
+      "type": "Learning Management"
     }
   ],
   "Salesforce (Core SPF)": [
     {
       "pattern": "include:_spf.salesforce.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "DKIM": [
     {
       "pattern": "k=rsa; p=",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Email Sending (Generic)": [
     {
       "pattern": "sending_domain",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "HackerOne": [
     {
       "pattern": "h1-domain-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Liveramp": [
     {
       "pattern": "liveramp-site-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "Docker": [
     {
       "pattern": "docker-verification=",
-      "Type": "Software"
+      "type": "Software"
     }
   ],
   "CloudHealth": [
     {
       "pattern": "cloudhealth=",
-      "Type": "Monitoring"
+      "type": "Monitoring"
     }
   ],
   "Sendinblue": [
     {
       "pattern": "Sendinblue-code:",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:spf.sendinblue.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Zendesk (SPF Include)": [
     {
       "pattern": "include:mail.zendesk.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Flexera": [
     {
       "pattern": "flexera-domain-verification",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "AS Token": [
     {
       "pattern": "as=",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "1Password Site": [
     {
       "pattern": "1password-site-verification=",
-      "Type": "Password Vault"
+      "type": "Password Vault"
     }
   ],
   "Hashicorp": [
     {
       "pattern": "hcp-domain-verification=",
-      "Type": "SSO"
+      "type": "SSO"
     }
   ],
   "Linear": [
     {
       "pattern": "linear-domain-verification=",
-      "Type": "Development"
+      "type": "Development"
     }
   ],
   "Sitecore": [
     {
       "pattern": "sitecore-domain-verification=",
-      "Type": "CMS"
+      "type": "CMS"
     }
   ],
   "Workplace": [
     {
       "pattern": "workplace-domain-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "Box": [
     {
       "pattern": "box-domain-verification=",
-      "Type": "CMS"
+      "type": "CMS"
     }
   ],
   "Bazaar Voice": [
     {
       "pattern": "bv-domain-verification=",
-      "Type": "UGC"
+      "type": "UGC"
     }
   ],
   "Wiz": [
     {
       "pattern": "wiz-domain-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Wrike": [
     {
       "pattern": "wrike-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "Globalsign": [
     {
       "pattern": "_globalsign-domain-verification",
-      "Type": "Digital Identity"
+      "type": "Digital Identity"
     },
     {
       "pattern": "globalsign-domain-verification",
-      "Type": "Digital Identity"
+      "type": "Digital Identity"
     },
     {
       "pattern": "globalsign-smime-dv=",
-      "Type": "Digital Identity"
+      "type": "Digital Identity"
     }
   ],
   "Infoblox": [
     {
       "pattern": "infoblox-domain-mastery",
-      "Type": "Network"
+      "type": "Network"
     }
   ],
   "Duo SSO": [
     {
       "pattern": "duo_sso_verification",
-      "Type": "SSO"
+      "type": "SSO"
     }
   ],
   "Fastly": [
     {
       "pattern": "fastly-domain-delegation",
-      "Type": "Network"
+      "type": "Network"
     }
   ],
   "Figma": [
     {
       "pattern": "figma-domain-verification",
-      "Type": "Design"
+      "type": "Design"
     }
   ],
   "Smartsheet": [
     {
       "pattern": "smartsheet-site-validation",
-      "Type": "Productivity"
+      "type": "Productivity"
     }
   ],
   "Dovetail HR": [
     {
       "pattern": "dovetailnow.com",
-      "Type": "HR"
+      "type": "HR"
     }
   ],
   "Spycloud Domain": [
     {
       "pattern": "spycloud-domain-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Mandient/Google DTM": [
     {
       "pattern": "dtm-domain-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Have I Been Pwned": [
     {
       "pattern": "have-i-been-pwned-verification=",
-      "Type": "Security"
+      "type": "Security"
     }
   ],
   "Cisco Intersight": [
     {
       "pattern": "intersight=",
-      "Type": "Network"
+      "type": "Network"
     }
   ],
   "Sendgrid": [
     {
       "pattern": "sendgrid.net",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Mandrill (Mailchimp)": [
     {
       "pattern": "mandrill_verify",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "mandrillapp.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Webflow": [
     {
       "pattern": "proxy-ssl.webflow.com",
-      "Type": "CMS"
+      "type": "CMS"
     }
   ],
   "Teamviewer": [
     {
       "pattern": "teamviewer-sso-verification=",
-      "Type": "Remote Access"
+      "type": "Remote Access"
     }
   ],
   "Zapier": [
     {
       "pattern": "zapier-domain-verification-challenge=",
-      "Type": "Automation"
+      "type": "Automation"
     }
   ],
   "EntraID Cross Domain": [
     {
       "pattern": "DirectFedAuthUrl=",
-      "Type": "SSO"
+      "type": "SSO"
     }
   ],
   "GoNitro PDF": [
     {
       "pattern": "nitro-verification-code",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "Brevo": [
     {
       "pattern": "brevo-code:",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:spf.sendinblue.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Tiktok Developer": [
     {
       "pattern": "tiktok-developers-site-verification=",
-      "Type": "Social Media"
+      "type": "Social Media"
     }
   ],
   "XXX Domain registration": [
     {
       "pattern": "IPROTA_",
-      "Type": "Domain Services"
+      "type": "Domain Services"
     }
   ],
   "mail.ru": [
     {
       "pattern": "mailru-verification:",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Autodesk": [
     {
       "pattern": "autodesk-domain-verification=",
-      "Type": "Design"
+      "type": "Design"
     }
   ],
   "LucidLink": [
     {
       "pattern": "lucidlink-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     },
     {
       "pattern": "lucid-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "Neat Pulse": [
     {
       "pattern": "neat-pulse-domain-verification-",
-      "Type": "Building Management"
+      "type": "Building Management"
     }
   ],
   "JetBrains": [
     {
       "pattern": "jetbrains-domain-verification=",
-      "Type": "Development"
+      "type": "Development"
     }
   ],
   "Postman": [
     {
       "pattern": "postman-domain-verification=",
-      "Type": "Development"
+      "type": "Development"
     }
   ],
   "Highspot": [
     {
       "pattern": "highspot.com",
-      "Type": "Sales"
+      "type": "Sales"
     }
   ],
   "Oracle Mail Delivery": [
     {
       "pattern": "oracleemaildelivery.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Yandex": [
     {
       "pattern": "yandex-verification=",
-      "Type": "Search Engine"
+      "type": "Search Engine"
     }
   ],
   "ElevenLabs": [
     {
       "pattern": "elevenlabs=",
-      "Type": "AI"
+      "type": "AI"
     }
   ],
   "VMWare Cloud": [
     {
       "pattern": "vmware-cloud-verification-",
-      "Type": "Cloud"
+      "type": "Cloud"
     }
   ],
   "Bluebeam PDF": [
     {
       "pattern": "bluebeam-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "Extensis": [
     {
       "pattern": "extensis-domain-verification=",
-      "Type": "Design"
+      "type": "Design"
     }
   ],
   "Webex": [
     {
       "pattern": "ciscocidomainverification=",
-      "Type": "Video Conferencing"
+      "type": "Video Conferencing"
     },
     {
       "pattern": "webexdomainverification=",
-      "Type": "Video Conferencing"
+      "type": "Video Conferencing"
     }
   ],
   "Klaviyo": [
     {
       "pattern": "klaviyo-site-verification=",
-      "Type": "CRM"
+      "type": "CRM"
     }
   ],
   "Sparkpost": [
     {
       "pattern": "include:_spf.e.sparkpost.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "MASV(Massive)": [
     {
       "pattern": "masv=",
-      "Type": "File Storage"
+      "type": "File Storage"
     }
   ],
   "Vali Mail": [
     {
       "pattern": "include:%{i}._ip.%{h}._ehlo.%{d}._spf.vali.email",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Proofpoint": [
     {
       "pattern": "pphosted.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Zoho": [
     {
       "pattern": "zoho-verification=",
-      "Type": "Office IT"
+      "type": "Office IT"
     }
   ],
   "Astro (Build)": [
     {
       "pattern": "astro-domain-verification=",
-      "Type": "Development"
+      "type": "Development"
     }
   ],
   "Salesloft (Drift)": [
     {
       "pattern": "drift-domain-verification=",
-      "Type": "Sales"
+      "type": "Sales"
     }
   ],
   "Adobe Marketo Engage": [
     {
       "pattern": "mktomail.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Q4 Inc": [
     {
       "pattern": "include:_spf.q4press.com",
-      "Type": "Investor Relations"
+      "type": "Investor Relations"
     }
   ],
   "Pinterest": [
     {
       "pattern": "pinterest-site-verification=",
-      "Type": "Social Media"
+      "type": "Social Media"
     }
   ],
   "Byte Dance (Tiktok)": [
     {
       "pattern": "include:spf.bytedance.com",
-      "Type": "Social Media"
+      "type": "Social Media"
     }
   ],
   "Stibee": [
     {
       "pattern": "include:mail.stibee.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "mixpanel": [
     {
       "pattern": "mixpanel-domain-verify=",
-      "Type": "Analytics"
+      "type": "Analytics"
     }
   ],
   "Loom": [
     {
       "pattern": "loom-verification=",
-      "Type": "Video Messaging"
+      "type": "Video Messaging"
     }
   ],
   "LogMeIn": [
     {
       "pattern": "logmein-verification-code=",
-      "Type": "Remote Access"
+      "type": "Remote Access"
     }
   ],
   "Unity": [
     {
       "pattern": "unity-sso-verification=",
-      "Type": "Development"
+      "type": "Development"
     }
   ],
   "Appspace": [
     {
       "pattern": "appspace-domain-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "Mailchimp": [
     {
       "pattern": "include:_spf.mailchimp.com",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:servers.mcsv.net",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Createsend": [
     {
       "pattern": "include:_spf.createsend.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Rippling": [
     {
       "pattern": "rippling-domain-verification=",
-      "Type": "HR"
+      "type": "HR"
     }
   ],
   "Happeo": [
     {
       "pattern": "happeo-site-verification=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "New Relic": [
     {
       "pattern": "new-relic-domain-verification=",
-      "Type": "Monitoring"
+      "type": "Monitoring"
     }
   ],
   "Hotmail": [
     {
       "pattern": "include:spf-a.hotmail.com",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:spf-b.hotmail.com",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:spf-c.hotmail.com",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:spf-d.hotmail.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Palo Alto Networks": [
     {
       "pattern": "paloaltonetworks-site-verification=",
-      "Type": "Network"
+      "type": "Network"
     }
   ],
   "BrowserStack": [
     {
       "pattern": "browserstack-domain-verification=",
-      "Type": "Development"
+      "type": "Development"
     }
   ],
   "Checkout.com": [
     {
       "pattern": "CKO=",
-      "Type": "E-Commerce"
+      "type": "E-Commerce"
     }
   ],
   "Microsoft Azure Front Door": [
     {
       "pattern": "AFDVALIDATION=",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Sprig": [
     {
       "pattern": "sprig-site-verification=",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Dynect": [
     {
       "pattern": "include:spf.dynect.net",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Mailer Lite": [
     {
       "pattern": "include:_spf.mlsend.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Zohobooks": [
     {
       "pattern": "include:sender.zohobooks.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Staffbase": [
     {
       "pattern": "include:spf.bananatag.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Nintex": [
     {
       "pattern": "nintex.",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Datadome": [
     {
       "pattern": "datadome-domain-verify=",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Cvent-Planner": [
     {
       "pattern": "include:cvent-planner.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Pageup (Clinch)": [
     {
       "pattern": "include:mail.clinchtalent.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Redpoints": [
     {
       "pattern": "include:spf.redpoints.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Advanced Hosters": [
     {
       "pattern": "include:_spf.smtp.advancedhosters.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Sinch": [
     {
       "pattern": "include:spf.sinch.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Sinch Mailjet": [
     {
       "pattern": "include:spf.mailjet.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Sinch Mailgun": [
     {
       "pattern": "mgverify=",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:_spf1.mailgun.org",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:_spf2.mailgun.org",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:_spf.eu.mailgun.org",
-      "Type": "Email"
+      "type": "Email"
     },
     {
       "pattern": "include:mailgun.org",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Sage Intacct": [
     {
       "pattern": "intacct-esk=",
-      "Type": "Accounting"
+      "type": "Accounting"
     }
   ],
   "Vespa AI": [
     {
       "pattern": "vespaai-domain-verification=",
-      "Type": "AI"
+      "type": "AI"
     }
   ],
   "Hai Hai Mail": [
     {
       "pattern": "include:spf.haihaimail.jp",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Oracle Health Sciences": [
     {
       "pattern": "cerner-client-id=",
-      "Type": "Healthcare"
+      "type": "Healthcare"
     }
   ],
   "Yahoo": [
     {
       "pattern": "yahoo-verification-key=",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Asana": [
     {
       "pattern": "asv=",
-      "Type": "Collaboration"
+      "type": "Collaboration"
     }
   ],
   "e3 Software (Direct Mail)": [
     {
       "pattern": "dme3ds1.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Dell Technologies": [
     {
       "pattern": "dell-technologies-domain-verification=",
-      "Type": "Network"
+      "type": "Network"
     }
   ],
   "AFAS Online": [
     {
       "pattern": "include:spf.afas.online",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ],
   "Innovate Telecom": [
     {
       "pattern": "include:_spf.innovatelecom.es",
-      "Type": "Network"
+      "type": "Network"
     }
   ],
   "SAP": [
     {
       "pattern": "include:_spf-dc12.successfactors.com",
-      "Type": "Business Suite"
+      "type": "Business Suite"
     },
     {
       "pattern": "sapsf.eu",
-      "Type": "Business Suite"
+      "type": "Business Suite"
     },
     {
       "pattern": "successfactors-site-verification=",
-      "Type": "Business Suite"
+      "type": "Business Suite"
     }
   ],
   "Pegasus Systems": [
     {
       "pattern": "include:spfau.pegasussystems.com",
-      "Type": "Business Suite"
+      "type": "Business Suite"
     }
   ],
   "Mimecast": [
     {
       "pattern": "include:eu._netblocks.mimecast.com",
-      "Type": "Email"
+      "type": "Email"
     }
   ],
   "Trustpilot": [
     {
       "pattern": "trustpilot-verification",
-      "Type": "Reviews"
+      "type": "Reviews"
     }
   ],
   "MyConvento": [
     {
       "pattern": "include:spfa.myconvento.com",
-      "Type": "Public Relations"
+      "type": "Public Relations"
     }
   ],
   "SPF/Email": [
     {
       "pattern": "v=spf1",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "ip4:",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:spf.protection.outlook.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:_spf.elasticemail.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:service-now.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:amazonses.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:cust-spf.exacttarget.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:spf-001d9801.pphosted.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:spf1.atlassian.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:spf3.atlassian.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:_spf.salesforce.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:docebosaas.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:spf-00492d01.pphosted.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:spf.sendinblue.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:mail.zendesk.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:sendgrid.net",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:phx1.rp.oracleemaildelivery.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:iad1.rp.oracleemaildelivery.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:_spf.e.sparkpost.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:%{i}._ip.%{h}._ehlo.%{d}._spf.vali.email",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:%{ir}.%{v}.%{d}.spf.has.pphosted.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:mktomail.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:_spf.q4press.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:mail.stibee.com",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:servers.mcsv.net",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:_spf1.mailgun.org",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:_spf2.mailgun.org",
-      "Type": "Unknown"
+      "type": "Unknown"
     },
     {
       "pattern": "include:_spf.eu.mailgun.org",
-      "Type": "Unknown"
+      "type": "Unknown"
     }
   ]
 }
