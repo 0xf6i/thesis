@@ -1,6 +1,4 @@
-def main():
-    print("Hello from thesis!")
+from src.dns.mimir import Mimir
 
-
-if __name__ == "__main__":
-    main()
+mimir = Mimir("outpost24.com")
+mimir.scan()
