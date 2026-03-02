@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dnspython>=2.8.0",
     "networkx>=3.6.1",
     "plotly>=6.5.2",
+    "redis>=7.2.1",
 ]
